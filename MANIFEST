@@ -33,3 +33,4 @@ lib/ePortal/App/SquidAcnt/SAurl.pm
 lib/ePortal/App/SquidAcnt/SAurl_group.pm
 lib/ePortal/App/SquidAcnt/SAuser.pm
 target
+META.yml                                 Module meta-data (added by MakeMaker)

@@ -13,7 +13,7 @@
 
 package ePortal::App::SquidAcnt::SAurl;
     use base qw/ePortal::ThePersistent::ParentACL/;
-    our $VERSION = '4.1';
+    our $VERSION = '4.2';
 
     use ePortal::Global;
     use ePortal::Utils;
